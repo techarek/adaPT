@@ -1,0 +1,1 @@
+{"out_type": "punctuation", "prompt": "<|endoftext|>", "feedback": "?", "negative_feedback": false, "emotion": "question", "model_name": "gpt2-medium", "algorithm": "ppo", "max_seq_len": 35, "max_steps": 50000, "lr": 1e-06, "n_envs": 40, "save_freq": 10000, "gen_freq": 1000}
